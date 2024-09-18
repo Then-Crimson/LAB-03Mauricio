@@ -1,0 +1,3 @@
+La implementacion de este laboratorio fue de gran ayuda, la explicacion fue completa 
+lo suficiente para entende acerca de los pull request el cual sera de gran ayuda para mas adelante dado 
+que se trabajara mas seguido con este tema.
